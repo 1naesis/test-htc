@@ -1,0 +1,6 @@
+.input-figures{
+    display: none;
+}
+.input-figures.active{
+    display: block;
+}

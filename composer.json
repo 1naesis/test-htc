@@ -1,0 +1,17 @@
+{
+    "name": "naesis/htc",
+    "authors": [
+        {
+            "name": "naesis",
+            "email": "1naesis@gmail.com"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
